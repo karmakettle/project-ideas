@@ -1,0 +1,5 @@
+Project found online. Link:  
+
+Description:  Neopixel ring inside semi-translucent shell responds to voice and causes the shell to glow when the wearer is speaking
+
+Materials:
