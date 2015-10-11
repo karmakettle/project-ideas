@@ -1,0 +1,6 @@
+Came up with this based on Alchemy API
+
+Description:
+Parse words as speaking; send text to Alchemy API which determines feeling based on keywords used, etc. question:  know it determines feeling about a particular topic, but what about general feeling?
+
+Materials:
