@@ -1,6 +1,13 @@
 Came up with this based on Alchemy API
 
 Description:
-Parse words as speaking; send text to Alchemy API which determines feeling based on keywords used, etc. question:  know it determines feeling about a particular topic, but what about general feeling?
+Parse words as speaking; send text to Alchemy API which determines feeling based on keywords used, etc. is able to determine at an overall level (document level) whether a speaker feels positive, negative, or neutral.
 
 Materials:
+
+Resources:
+description of different alchemy services. the news api looks interesting, too: http://www.alchemyapi.com/products/demo
+
+Could also use the Semantria service. It’s probably really similar to alchemy api. it has a sentiment_polarity and sentiment_score. polarity is the general label of positive, negative, or neutral, and score is the exact # it came up with (-10 being most negative and 10 being most positive, takes some log to determine the value—maybe this means the lowest # returned is -1 and the highest is 1?). 10,000 free transactions…
+
+I thought there was some service that could determine percentages of specific moods, though, not just positive/negative?
