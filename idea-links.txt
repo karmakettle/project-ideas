@@ -1,0 +1,5 @@
+Neural networks:  from what i understand, it’s machine learning. train “neurons” in the network by teaching them what’s correct and incorrect so that they will eventually recognize accurate matches.
+
+synaptic library: http://synaptic.juancazala.com/#/
+brain.js:  http://stackabuse.com/neural-networks-in-javascript-with-brain-js/
+
