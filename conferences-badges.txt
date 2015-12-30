@@ -1,0 +1,5 @@
+Online or own idea?  Got it from lackaday:  http://hackaday.com/2015/10/07/conference-badges-are-the-newest-form-of-hardware-art/
+
+Description:  People carry around small electronic badges that synchronize patterns when others are nearby so that groups are all blinking the same pattern at the same time. Also, it manages passwords via USB. Also, it… turns off TVs or something?
+
+Materials:

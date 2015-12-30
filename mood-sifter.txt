@@ -11,3 +11,7 @@ description of different alchemy services. the news api looks interesting, too: 
 Could also use the Semantria service. It’s probably really similar to alchemy api. it has a sentiment_polarity and sentiment_score. polarity is the general label of positive, negative, or neutral, and score is the exact # it came up with (-10 being most negative and 10 being most positive, takes some log to determine the value—maybe this means the lowest # returned is -1 and the highest is 1?). 10,000 free transactions…
 
 I thought there was some service that could determine percentages of specific moods, though, not just positive/negative?
+
+Spoke with Ashley who works on IBM Watson at the ATX Bot Talk. She mentioned something that Watson has… Forgot the name grr… Oh, I think this is it!: https://developer.ibm.com/watson/blog/2015/07/16/ibm-watson-tone-analyzer-service-experimental-release-announcement/. Tone Analyzer.
+
+Natural language parser, but it sounds like its purpose is to aid in machine learning? Or maybe just associate a series of actions or just information with certain text? https://wit.ai/. It does say this:  “Wearable devices come with tiny screens. Wit enables not only the maker of the device, but also its ecosystem of developers, to build their must-have voice interface.”
